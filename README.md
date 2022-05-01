@@ -1,2 +1,8 @@
-# Mailer-Templates
-These all will be Static HTML templates availiable for ready to user. Any one can use these templates.
+# Static HTML Email Templates
+
+Email marketing is crucial for any online business. So i have decided to create beautiful responsive HTML email templates and share to public free of cost.
+
+Following is a list of the templates and it will be continiously update when add the new template to this repository.
+
+### Verification
+- [Email Verification](https://github.com/crsiwal/Mailer-Templates/Verification/everify/)
